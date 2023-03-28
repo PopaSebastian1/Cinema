@@ -16,7 +16,6 @@ namespace Cinema.Mapping
             result.Title = movie.Title;
             result.Director = movie.Director;
             result.Rating = movie.Rating;
-            result.ReleaseDate= movie.ReleaseDate;
             return result;
         }
 
